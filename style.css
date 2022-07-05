@@ -1,0 +1,36 @@
+.content{
+    margin: 0 auto;
+    width: 99%;
+}
+
+.row{
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+    width: 1540px;
+    height: 222px;
+    margin-bottom: 32px;
+}
+
+.box{
+    background: #A7A7A7;
+    box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.25);
+    width: 755px;
+    height: 222px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.small{
+    width: 493px;
+}
+
+.lorem{
+    margin-left: 34px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+}
